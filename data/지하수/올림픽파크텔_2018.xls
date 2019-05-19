@@ -1,0 +1,20 @@
+<table border="1">
+						<caption>자동관측망 현황 목록</caption>
+						<colgroup>
+							<col style="width:18%">
+							<col style="width:12%">
+							<col style="width:10%">
+							<col style="width:50%">
+							<col style="width:10%">
+						</colgroup>
+						<thead>
+							<tr>
+								<th scope="col">관측일시</th>
+								<th scope="col">수위(m)</th>
+								<th scope="col">수온(℃)</th>
+								<th scope="col">전기전도도(㎲/㎝)</th>
+								<th scope="col">비고</th>
+							</tr>
+						</thead>
+						<tbody><tr><td>2018.12.10 05시</td><td>4.96</td><td>14.4</td><td>497</td><td></td></tr><tr><td>2018.12.03 05시</td><td>4.94</td><td>14.5</td><td>508</td><td></td></tr><tr><td>2018.11.23 05시</td><td>4.91</td><td>14.5</td><td>503</td><td></td></tr><tr><td>2018.11.15 05시</td><td>4.88</td><td>14.4</td><td>492</td><td></td></tr><tr><td>2018.10.25 05시</td><td>4.90</td><td>14.4</td><td>495</td><td></td></tr><tr><td>2018.10.11 05시</td><td>4.85</td><td>14.5</td><td>502</td><td></td></tr><tr><td>2018.09.27 05시</td><td>4.82</td><td>14.5</td><td>498</td><td></td></tr><tr><td>2018.09.13 05시</td><td>4.76</td><td>14.6</td><td>509</td><td></td></tr><tr><td>2018.08.29 05시</td><td>4.70</td><td>14.6</td><td>512</td><td></td></tr><tr><td>2018.08.16 05시</td><td>4.85</td><td>14.4</td><td>504</td><td></td></tr><tr><td>2018.07.24 05시</td><td>5.05</td><td>14.2</td><td>495</td><td></td></tr><tr><td>2018.07.10 05시</td><td>5.02</td><td>14.3</td><td>508</td><td></td></tr><tr><td>2018.06.26 05시</td><td>5.11</td><td>14.3</td><td>502</td><td></td></tr><tr><td>2018.06.12 05시</td><td>5.07</td><td>14.2</td><td>491</td><td></td></tr><tr><td>2018.05.23 05시</td><td>5.02</td><td>14.2</td><td>483</td><td></td></tr><tr><td>2018.05.10 05시</td><td>5.05</td><td>14.1</td><td>503</td><td></td></tr><tr><td>2018.04.23 05시</td><td>5.18</td><td>14.1</td><td>518</td><td></td></tr><tr><td>2018.04.09 05시</td><td>5.14</td><td>14.2</td><td>524</td><td></td></tr><tr><td>2018.03.21 05시</td><td>5.30</td><td>14.2</td><td>516</td><td></td></tr><tr><td>2018.03.08 05시</td><td>5.33</td><td>14.3</td><td>521</td><td></td></tr><tr><td>2018.02.22 05시</td><td>5.61</td><td>14.3</td><td>508</td><td></td></tr><tr><td>2018.02.09 05시</td><td>5.57</td><td>14.2</td><td>496</td><td></td></tr><tr><td>2018.01.30 05시</td><td>5.17</td><td>13.9</td><td>539</td><td></td></tr><tr><td>2018.01.16 05시</td><td>5.03</td><td>13.9</td><td>542</td><td></td></tr></tbody>
+					</table>
